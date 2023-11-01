@@ -3,4 +3,4 @@ System to migrate a VRChat SDK2 project to Udon using [CyanTrigger](https://gith
 
 Add to your project using the [CyanTrigger VCC Listing](https://cyanlaser.github.io/CyanTrigger/)
 
-[Full migration guide and capabilities located on the CyanTrigger Wiki](https://github.com/CyanLaser/CyanTrigger/wiki/SDK2-to-Udon-Migration#sdk2-items-that-cannot-be-migrated)
+[Full migration guide and capabilities located on the CyanTrigger Wiki](https://github.com/CyanLaser/CyanTrigger/wiki/SDK2-to-Udon-Migration)
